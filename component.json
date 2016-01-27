@@ -1,0 +1,10 @@
+{
+    "name": "is-regex",
+    "description": "Is this value a JS regex? Works cross-realm/iframe, and despite ES6 @@toStringTag",
+    "repos": "https://github.com/ljharb/is-regex.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.3"
+}
